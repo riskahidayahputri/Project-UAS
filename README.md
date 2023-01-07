@@ -13,7 +13,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-https://drive.google.com/file/d/1yp0G6XL1bA33bTAm4NhnOOU9AqXGT47c/view?usp=share_link
+[ https://drive.google.com/file/d/1yp0G6XL1bA33bTAm4NhnOOU9AqXGT47c/view?usp=share_link ]
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut:
 
