@@ -18,3 +18,8 @@ Cara Menjalankan Program :
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut:
 
 ### Berikut link repository github :
+
+### Live test program :
+
+[Live Test Program]
+(https://replit.com/@Riska-HidayahHi/Menghitung-Nilai-Data-Mahasiswa)
