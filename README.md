@@ -21,5 +21,4 @@ Cara Menjalankan Program :
 
 ### Live test program :
 
-[Live Test Program]
-(https://replit.com/@Riska-HidayahHi/Menghitung-Nilai-Data-Mahasiswa)
+[Live Test Program](https://replit.com/@Riska-HidayahHi/Menghitung-Nilai-Data-Mahasiswa)
