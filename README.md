@@ -19,6 +19,8 @@ Cara Menjalankan Program :
 
 ### Berikut link repository github :
 
+https://github.com/riskahidayahputri/Project-UAS
+
 ### Live test program :
 
 [Live Test Program](https://replit.com/@Riska-HidayahHi/Menghitung-Nilai-Data-Mahasiswa)
