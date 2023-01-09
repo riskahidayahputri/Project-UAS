@@ -1,4 +1,4 @@
-# Project uas_16
+# Project UAS_16
 
 Nama : Riska Hidayah Putri
 NIM : 312210102
@@ -38,4 +38,4 @@ https://github.com/riskahidayahputri/Project-UAS
 
 Sekian penjelasan dari saya, kurang lebih nya saya mohon maaf
 
-### TERIMA kasih
+### TERIMA KASIH
