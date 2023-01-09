@@ -1,3 +1,11 @@
+# Project uas_16
+
+Nama : Riska Hidayah Putri
+NIM : 312210102
+Kelas : TI.22. B1
+Mata Kuliah : Bahasa Pemrograman
+
+
 # Latihan membuat MVC Model View Controller dengan python
 
 ## Repository ini dibuat sebagai project UAS Teknik Informatika UPB
@@ -17,6 +25,8 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut:
 
+[Video YouTube](https://www.youtube.com/watch?v=Z8FcRABvm6Q)
+
 ### Berikut link repository github :
 
 https://github.com/riskahidayahputri/Project-UAS
@@ -24,3 +34,8 @@ https://github.com/riskahidayahputri/Project-UAS
 ### Live test program :
 
 [Live Test Program](https://replit.com/@Riska-HidayahHi/Menghitung-Nilai-Data-Mahasiswa)
+
+
+Sekian penjelasan dari saya, kurang lebih nya saya mohon maaf
+
+### TERIMA kasih
