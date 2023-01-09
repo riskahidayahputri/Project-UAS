@@ -1,8 +1,11 @@
 # Project UAS_16
 
 Nama : Riska Hidayah Putri
+
 NIM : 312210102
+
 Kelas : TI.22. B1
+
 Mata Kuliah : Bahasa Pemrograman
 
 
